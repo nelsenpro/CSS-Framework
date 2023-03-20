@@ -3,5 +3,28 @@ CSS framework adalah kerangka kerja yang fungsinya untuk memudahkan Anda ketika 
 # Bagaimana Membangun CSS Framework 🤷
 ### Ada banyak CSS Framework: 🗣️🌏Bootstrap, Foundation, Materialize, Bulma.
 ### Mari kita membangun CSS 😉Framework versi kita sendiri...
+## Struktur
+```txt
+cssf/
+├── files/
+│   ├── buttons.css
+│   ├── color.css
+│   ├──  ....etc.css.css
+│   └── size.css
+├── main.css
+├── main.html
+└── normalize.css
+```
+### Output -- Target: normalize, animated, float, grid, == Responsive
+```txt
+output-cssf/
+├── animate/
+│   └── animate.css
+├── cssf.css
+├── fonts/
+│   ├── fa.css
+│   └── webfonts/
+└── test-cssf.html
+```
 # Apakah kamu ingin Mencoba CSS 👇 Framework Indonesia? 
 [Framecss](https://github.com/nelsenpro/frame) CSS Framework Indonesia 
