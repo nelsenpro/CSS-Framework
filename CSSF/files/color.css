@@ -1,0 +1,12 @@
+:root {
+    --cred: red;
+    --cgreen: green;
+    --cblue: blue;
+}
+
+.red {
+    color: var(--cred);
+}
+.green {
+    color: var(--cgreen);
+}
