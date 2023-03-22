@@ -8,8 +8,7 @@ CSS framework adalah kerangka kerja yang fungsinya untuk memudahkan Anda ketika 
 ```txt
 cssf/
 ├── main.css
-├── main.html
-└── normalize.css
+└── main.html
 ```
 ### Output -- Target: normalize, animated, float, grid, == Responsive
 ```txt
@@ -19,7 +18,7 @@ output-cssf/
 ├── fonts/
 │   ├── fa.css
 │   └── webfonts/
-└── test-cssf.html
+└── test.html
 ```
 # Apakah kamu ingin Mencoba CSS 👇 Framework Indonesia? 
 [Framecss](https://github.com/nelsenpro/frame) CSS Framework Indonesia 
