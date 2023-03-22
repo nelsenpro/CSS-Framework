@@ -1,17 +1,12 @@
 # Bagaimana Cara Membangun CSS Framework? ini adalah proses membangun framework CSS
 ## Css Framework 🖥️
 CSS framework adalah kerangka kerja yang fungsinya untuk memudahkan Anda ketika membuat desain website atau aplikasi web dengan mudah dan cepat.
-# Bagaimana Membangun CSS Framework 🤷
+# Membangun CSS Framework 🤷
 ### Ada banyak CSS Framework: 🗣️🌏Bootstrap, Foundation, Materialize, Bulma.
 ### Mari kita membangun CSS 😉Framework versi kita sendiri...
 ## Struktur
 ```txt
 cssf/
-|
-
-
-
-
 ├── main.css
 ├── main.html
 └── normalize.css
@@ -20,7 +15,6 @@ cssf/
 ```txt
 output-cssf/
 ├── animate.css
-
 ├── cssf.css
 ├── fonts/
 │   ├── fa.css
