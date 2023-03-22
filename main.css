@@ -1,0 +1,122 @@
+/* starting normalize*/
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: times;
+}
+
+/* starting Colors */
+:root {
+    --red : red;
+    --green : green;
+    --blue : blue;
+    --yellow : yellow;
+    --magenta : magenta;
+    --pink : pink;
+    --orange : orange;
+    --white : white;
+    --black : black;
+    --gray : gray;
+}
+
+/* teks coloring*/
+.red {
+    color: var(--red);
+}
+.green {
+    color: var(--green);
+}
+.blue {
+    color: var(--blue);
+}
+.yellow {
+    color: var(--yellow);
+}
+.magenta {
+    color: var(--magenta);
+}
+.pink {
+    color: var(--pink);
+}
+.orange {
+    color: var(--orange);
+}
+.white {
+    color: var(--white);
+}
+.black {
+    color: var(--black);
+}
+.gray {
+    color: var(--gray);
+}
+
+/* background color*/
+.bg-red {
+    background-color: var(--red);
+}
+.bg-green {
+    background-color: var(--green);
+}
+.bg-blue {
+    background-color: var(--blue);
+}
+.bg-yellow {
+    background-color: var(--yellow);
+}
+.bg-magenta {
+    background-color: var(--magenta);
+}
+.bg-pink {
+    background-color: var(--pink);
+}
+.bg-orange {
+    background-color: var(--orange);
+}
+.bg-white {
+    background-color: var(--white);
+}
+.bg-black {
+    background-color: var(--black);
+}
+.bg-gray {
+    background-color: var(--gray);
+}
+
+/* starting Padding */
+.pd2 {
+    padding: 2px;
+}
+.pd5 {
+    padding: 5px;
+}
+.pd8 {
+    padding: 8px;
+}
+
+/* radius */
+.r4 {
+    border-radius: 4px;
+}
+.r8 {
+    border-radius: 8px;
+}
+.r12 {
+    border-radius: 12px;
+}
+
+/* starting button */
+.button {
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+    transition-duration: 2s;
+}
+.button:hover {
+    font-size: 20px;
+}
